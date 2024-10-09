@@ -11,5 +11,5 @@
 - 🔢 Mathematical Modeling
 - 📊 Probability & Statistics
 ## GitHub Stats
-![Lê Phan Khải Vinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Le Phan Khai Vinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 📫 Contact: [vinh.lephankhai@hcmut.edu.vn](mailto:vinh.lephankhai@hcmut.edu.vn)
