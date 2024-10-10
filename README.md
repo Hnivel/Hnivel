@@ -1,4 +1,4 @@
-# Hi! Welcome to my GitHub profile!
+# Welcome to my profile!
 
 ## About Me
 - 🎓 I’m currently a student at **Ho Chi Minh University of Technology (Computer Science - Honors Program).**
