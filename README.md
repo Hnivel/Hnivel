@@ -1,4 +1,4 @@
-# Welcome to my profile!
+# Welcome.
 
 ## About Me
 - 🎓 I’m currently a student at **Ho Chi Minh University of Technology (Computer Science - Honors Program).**
