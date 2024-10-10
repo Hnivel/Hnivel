@@ -13,4 +13,4 @@
 ## GitHub Stats
 ![Le Phan Khai Vinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hnivel&show_icons=true&theme=radical)
 
-📫 Contact: **[vinh.lephankhai@hcmut.edu.vn](mailto:vinh.lephankhai@hcmut.edu.vn)**
+📫 **Contact:** **[vinh.lephankhai@hcmut.edu.vn](mailto:vinh.lephankhai@hcmut.edu.vn)**
