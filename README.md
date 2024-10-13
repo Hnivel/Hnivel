@@ -12,4 +12,4 @@
 - 📊 **Probability & Statistics**
 
 
-## 📫 **Contact:** **[vinh.lephankhai@hcmut.edu.vn](mailto:vinh.lephankhai@hcmut.edu.vn)**
+📫 **Contact:** **[vinh.lephankhai@hcmut.edu.vn](mailto:vinh.lephankhai@hcmut.edu.vn)**
