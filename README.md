@@ -22,7 +22,7 @@ Hi, I’m **Lê Phan Khải Vinh**, a third-year Honors Program student in
   </a>
 </div>
 
-## Social Links
+## Social Profiles
 
 <p align="center">
   <a href="https://www.facebook.com/LePhanKhaiVinh/" target="_blank">
