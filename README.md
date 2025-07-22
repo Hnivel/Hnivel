@@ -17,7 +17,7 @@ Hi, I’m **Lê Phan Khải Vinh**, a third-year student in Computer Scien
 
 <div align="center">
   <a href="https://github.com/Hnivel">
-    <img height="180em" src="https://github-readme-statistics-jet.vercel.app/api?username=Hnivel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show=reviews,prs_merged&hide=stars,contribs&custom_title=GitHub%20Statistics"/>
+    <img height="180em" src="https://github-readme-statistics-jet.vercel.app/api?username=Hnivel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show=reviews,prs_merged&hide=stars,contribs&custom_title=GitHub%20Statistics&&rank_icon=github"/>
     <img height="180em" src="https://github-readme-statistics-jet.vercel.app/api/top-langs/?username=Hnivel&layout=compact&langs_count=8&theme=dark&custom_title=Programming%20Languages"/>
   </a>
 </div>
