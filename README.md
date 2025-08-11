@@ -9,7 +9,7 @@ Hi, I’m **Lê Phan Khải Vinh**, a third-year student in Computer Scien
   <a href="https://www.instagram.com/_.hnivel._" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/lephankhaivinh/" target="_blank">
+  <a href="https://www.linkedin.com/in/vinhlephankhai/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Hnivel/" target="_blank">
