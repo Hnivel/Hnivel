@@ -1,6 +1,6 @@
 # Welcome
 
-Hi, I’m **Lê Phan Khải Vinh**, a third-year student in Computer Science (Honours Program) at VNU-HCM - Ho Chi Minh City University of Technology. My goal is to become a software engineer specializing in system design, with a focus on high-performance architectures, robust data models, and modern deployment workflows. Beyond my studies and work, I stay active with badminton, enjoy reading, and unwind with music. I'm always happy to help, so feel free to reach out.
+I’m **Lê Phan Khải Vinh**, a junior pursuing a Bachelor of Science in Computer Science at VNU‑HCM - Ho Chi Minh City University of Technology. I specialize in software engineering, focusing on designing and building robust, efficient systems.
 
 <p align="center">
   <a href="https://www.facebook.com/hnivel.0205/" target="_blank">
