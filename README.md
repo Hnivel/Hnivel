@@ -1,6 +1,6 @@
 # Welcome
 
-I’m **Lê Phan Khải Vinh**, a junior pursuing a Bachelor of Science in Computer Science at VNU‑HCM - Ho Chi Minh City University of Technology. I specialize in software engineering, focusing on designing and building robust, efficient systems.
+I’m **Lê Phan Khải Vinh**, a junior pursuing a Bachelor of Science in Computer Science (Honors Program) at Ho Chi Minh City University of Technology – VNU‑HCM. I specialize in software engineering, with a strong focus on backend development, distributed systems, and scalable architectures. Currently, I’m a Software Engineer at Zalo, where I contribute to backend services and system-level infrastructure that power large-scale applications.
 
 <p align="center">
   <a href="https://www.facebook.com/hnivel.0205/" target="_blank">
