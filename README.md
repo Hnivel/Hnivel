@@ -1,7 +1,5 @@
 # Welcome
 
-I’m **Lê Phan Khải Vinh**, a junior pursuing a Bachelor of Science in Computer Science at Ho Chi Minh City University of Technology. I specialize in software engineering, with a strong focus on backend development, distributed systems, and scalable architectures.
-
 <p align="center">
   <a href="https://www.facebook.com/hnivel.0205/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
